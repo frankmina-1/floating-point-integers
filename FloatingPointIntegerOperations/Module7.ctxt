@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Module7
+comment0.text=\r\n\ Programming\ Module\ 7\ \r\n\ Fills\ two\ arrays\ of\ size\ 1,000,000,\ one\ with\ floats,\ one\ with\ integers\r\n\ iterates\ through\ each\ array,\ changing\ the\ current\ index\ to\ the\ average\ of\ the\r\n\ previous\ and\ next\ index\ values.\ \r\n\ Records\ the\ time\ in\ milliseconds\ for\ each\ operation.\ \r\n\r\n\ @author\ Frank\ Mina\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ floatOperations()
+comment2.params=
+comment2.target=void\ intOperations()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
